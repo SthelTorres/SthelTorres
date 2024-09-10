@@ -4,7 +4,7 @@ I am a Software Engineering student looking for opportunities and collaborations
 <br>
 <br>
 <br>
-<h3>Knowledge</h3>
+<h2>Knowledge</h2>
 Languages:
 <br>
 <div style="`display: inline_block">
