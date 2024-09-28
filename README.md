@@ -34,7 +34,9 @@ IDE:
   <img  alt=Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
 <br>
-
+<br>
+<br>
+<br>
 <br>
 <div style="`display: inline_block">
   <a href="https://www.linkedin.com/in/sthel-torres-bab840287/" target="_blank">
