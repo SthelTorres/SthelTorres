@@ -34,10 +34,7 @@ IDE:
   <img  alt=Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
 <br>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SthelTorres&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mamn11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
 <br>
 <div style="`display: inline_block">
   <a href="https://www.linkedin.com/in/sthel-torres-bab840287/" target="_blank">
